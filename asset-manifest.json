@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bookworm-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bookworm-react/static/js/main.54af20b2.chunk.js",
+    "main.js.map": "/bookworm-react/static/js/main.54af20b2.chunk.js.map",
+    "runtime-main.js": "/bookworm-react/static/js/runtime-main.3ede5d74.js",
+    "runtime-main.js.map": "/bookworm-react/static/js/runtime-main.3ede5d74.js.map",
+    "static/js/2.cd1b6285.chunk.js": "/bookworm-react/static/js/2.cd1b6285.chunk.js",
+    "static/js/2.cd1b6285.chunk.js.map": "/bookworm-react/static/js/2.cd1b6285.chunk.js.map",
+    "index.html": "/bookworm-react/index.html",
+    "precache-manifest.826d6e2143631ef3caf8921f36db981e.js": "/bookworm-react/precache-manifest.826d6e2143631ef3caf8921f36db981e.js",
+    "service-worker.js": "/bookworm-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bookworm-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cd1b6285.chunk.js.LICENSE.txt": "/bookworm-react/static/js/2.cd1b6285.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bookworm-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ede5d74.js",
+    "static/js/2.cd1b6285.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.54af20b2.chunk.js"
+  ]
+}
